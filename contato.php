@@ -64,7 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				 <div class="banner two">
 				      <div class="container">
-					     <h2 class="second-tittle">Contact</h2>
+					     <h2 class="second-tittle">Contato</h2>
 				      </div>
 				</div>
      </div>
@@ -76,12 +76,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			    </div>
 			   <div class="contact-form">
 				  <form>
-						<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
-						<input type="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-						<input type="text" value="Telephone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telephone';}" required="">
+						<input type="text" value="Nome" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+						<input type="text" value="E-mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
+						<input type="text" value="Telefone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Telephone';}" required="">
 						<textarea onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message</textarea>
 						<div class="send">
-							<input type="submit" value="Send" >
+							<input type="submit" value="Enviar" >
 						</div>
 				 </form>
 			   </div>

@@ -73,9 +73,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 				<div class="about-top">
 					<div class="col-md-7 about-top-right">
-						<h4>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</h4>
-						<p>Fusce feugiat malesuada odio orbi nunc odio gravida at cursus nec luctus a lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna onec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo.Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend.</p>
-						<p>Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod cons equat ante. Lorem ipsum dmeconsectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet euismod in auctor ut ligula. </p>
+						<h4>Titulo aqui.</h4>
+						<p align="justify">Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui Colocar as informações aqui .</p>
 					</div>
 					<div class="col-md-5 about-top-left">
 						<img src="images/ab.jpg" class="img-responsive" alt=""/>
@@ -87,31 +86,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!--start-feet-section-->
      <div class="feet-section">
 	    <div class="container">
-		       <h3 class="tittle two">Hands and Feet Services</h3>
+		       <h3 class="tittle two">Mais sobre nosso evento</h3>
 		         <div class="serve-grids">
 					  <div class="col-md-5 service-img">
 						<img src="images/feet.jpg" class="img-responsive" alt=""/>
 					  </div>
 					   <div class="col-md-7 serve-text">
-					       <h4>Aliquam erat volutpat. Quisque vel tincidunt leo</h4>
-						   <p>Femper ultricies eget eget nunc. Sed est sem, mattis a nunc eget, elementum pharetra nunc. Curabitur sed venenatis lorem, at ultricies turpis. Mauris quam enim, bibendum lobortis mi vitae, congue suscipit eros. Morbi a quam dui. Sed id scelerisque augue. Fusce gravida vehicula eleifend. Pellentesque</p>
+					       <h4>Título</h4>
+						   <p align="justify">Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui </p>
 							<div class="col-md-6 service-grid">
 							   <ul>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Lorem ipsum dolor sit amet</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Fusce interdum metus et turpis</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Maecenas quis rutrum quam</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Praesent porttitor congue</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Praesent porttitor congue</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
 								</ul>
 
 								</div>
 							   <div class="col-md-6 service-grid">
 								 <ul>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Lorem ipsum dolor sit amet</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Fusce interdum metus et turpis</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Maecenas quis rutrum quam</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Praesent porttitor congue</li>
-									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Praesent porttitor congue</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
+									<li><a href="#"><i class="glyphicon glyphicon-forward"></i></a>Item aqui</li>
 								</ul>
 
 							  </div>
@@ -122,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 		
-		<!--start-team-->
+		<!--start-team
 		<div class="team">
 		    <div class="container">
 			  <h3 class="tittle two">Meet Our Team</h3>
@@ -181,8 +182,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-4 member1">
 						<img src="images/client.jpg" alt="" />
 						<div class="text text-center">
-							<h4>Author</h4>
-								<p>Fashion Designer</p>
+							<h4>Titulo Foto</h4>
+								<p>Descrição foto</p>
 						</div>
 					</div>
 					<div class="col-md-8 slide-test">
@@ -190,17 +191,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<ul class="rslides callbacks callbacks1" id="slider3">
 							<li id="callbacks1_s0" class="callbacks1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 							<li id="callbacks1_s1" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Consectetur adipisicing elitLorem ipsum dolor sit amet,Dolor amet , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui 2 Informações aqui 2 Informações aqui 2 Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 							<li id="callbacks1_s2" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Dolor amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui 3 Informações aqui 3 Informações aqui 3 Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 						</ul>

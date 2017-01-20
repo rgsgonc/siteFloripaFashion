@@ -119,7 +119,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<figure class="effect-terry">
 						<img src="images/imagem11.jpg" alt="img16"/>
 						<figcaption>
-								<h4>hey<span>look</span></h4>
+								<h4>Floripa<span>Fashion</span></h4>
 							<p>
 								<a href="#"><i class="glyphicon glyphicon-cloud-download"></i></a>
 								<a href="#"><i class="glyphicon glyphicon-heart"></i></a>
@@ -131,7 +131,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<figure class="effect-terry">
 						<img src="images/imagem12.jpg" alt="img26"/>
 						<figcaption>
-								<h4>hey<span>look</span></h4>
+								<h4>Floripa<span>Fashion</span></h4>
 							<p>
 							<a href="#"><i class="glyphicon glyphicon-cloud-download"></i></a>
 								<a href="#"><i class="glyphicon glyphicon-heart"></i></a>
@@ -143,7 +143,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<figure class="effect-terry">
 						<img src="images/imagem13.jpg" alt="img26"/>
 						<figcaption>
-						    <h4>hey<span>look</span></h4>
+						    <h4>Floripa<span>Fashion</span></h4>
 							<p>
 								<a href="#"><i class="glyphicon glyphicon-cloud-download"></i></a>
 								<a href="#"><i class="glyphicon glyphicon-heart"></i></a>
@@ -378,8 +378,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="col-md-4 member1">
 						<img src="images/client.jpg" alt="" />
 						<div class="text text-center">
-							<h4>Author</h4>
-								<p>Fashion Designer</p>
+							<h4>Título foto</h4>
+								<p>Descrição</p>
 						</div>
 					</div>
 					<div class="col-md-8 slide-test">
@@ -387,17 +387,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<ul class="rslides callbacks callbacks1" id="slider3">
 							<li id="callbacks1_s0" class="callbacks1_on" style="display: block; float: left; position: relative; opacity: 1; z-index: 2; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 							<li id="callbacks1_s1" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Consectetur adipisicing elitLorem ipsum dolor sit amet,Dolor amet , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui 2 Informações aqui 2 Informações aqui 2 Informações aqui 2 Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 							<li id="callbacks1_s2" class="" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 500ms ease-in-out;">
 								<div class="text-info">
-								 <p>Dolor amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+								 <p align="justify">Informações aqui 3 Informações aqui 3 Informações aqui Informações aqui 3 Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui Informações aqui .</p>
 								</div>
 							</li>
 						</ul>
